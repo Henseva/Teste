@@ -1,0 +1,6 @@
+{
+  "name": "HortiFrut",
+  "description": "App de hortifruti com catálogo de produtos frescos, carrinho, checkout integrado e controle de estoque em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
